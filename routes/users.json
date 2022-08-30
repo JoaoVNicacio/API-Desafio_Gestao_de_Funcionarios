@@ -1,0 +1,29 @@
+[
+	{
+		"id": "1",
+		"name": "john",
+		"salary": "3000.50",
+		"age": "25",
+		"role": ".net devoloper",
+		"email": "john@email.com",
+		"salaryInBRL": "15182.53"
+	},
+	{
+		"id": "2",
+		"name": "peter",
+		"salary": "3000.50",
+		"age": "25",
+		"role": "node.js devoloper",
+		"email": "peter@email.com",
+		"salaryInBRL": "15182.53"
+	},
+	{
+		"id": "3",
+		"name": "jean",
+		"salary": "2500.50",
+		"age": "25",
+		"role": "react devoloper",
+		"email": "jean@email.com",
+		"salaryInBRL": "12652.53"
+	}
+]
